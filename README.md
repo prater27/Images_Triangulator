@@ -19,7 +19,13 @@ This is an implementation by frankr0 of the following article using OpenCV:
 
 > Weighted Voronoi Stippling, Adrian Secord. In: Proceedings of the 2nd International Symposium on Non-photorealistic Animation and Rendering. NPAR ’02. ACM, 2002, pp. 37– 43.
 
-## Pre-requisites
-This implementation has been written and tested on Manjaro using the following packages:
-- GCC 8.2.1
+# Delaunay-Triangulation
+
+An implementation by delfrrr. It claims to be one of the fastest open source implementations available.
+
+# Pre-requisites
+It uses the following packages:
+- GCC version 7.4.0 (Ubuntu 7.4.0-1ubuntu1~18.04.1) 
 - OpenCV 4.0.0
+
+# Example of usage and results
