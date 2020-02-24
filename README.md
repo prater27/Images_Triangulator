@@ -11,7 +11,7 @@ Different input parameters that can be added when calling:
 	    "{draw d         |      | show iterate processing (proccess of stippling)}"
 	    "{drawTriangulation dt  |      | show the triangulation process }"
 	    "{onlyTriangulation ot  |      | skips the stippling process }"
-<
+	    
 
 It gives as outputs: stippled_image.jpg, stippled_points.txt (x y coordinates of the points), triangulated_image.jpg and triangles.txt (for each point in the triangle P1,P2,P3, gives the two coordinates x y: x1 y1 x2 y2 x3 y3).
 
