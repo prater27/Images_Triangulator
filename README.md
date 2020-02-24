@@ -29,3 +29,5 @@ It uses the following packages:
 - OpenCV 4.0.0
 
 # Example of usage and results
+https://github.com/prater27/Images_Triangulator/tree/master/Results
+
