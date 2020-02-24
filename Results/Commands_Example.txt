@@ -1,0 +1,3 @@
+./Image_Triangulator Test.jpg -i -ps=1 -lineSize=1 -N=250000 -epoch=300
+
+./Image_Triangulator Test.jpg -i -ps=1 -lineSize=1 -N=250000 -epoch=300 -dt -d
