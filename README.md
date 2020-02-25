@@ -44,7 +44,7 @@ A final image obtained by running the next command:
 
 ![alt text](https://github.com/prater27/Images_Triangulator/blob/master/Results/Triangulated_Image1.jpg "Example_1")
 
-It is important that the picture has good resolution. Lower resolution pictures leads to bad triangulations often.
+It is important that the picture has good resolution. Lower resolution pictures lead to wrong triangulations often.
 
 
 
