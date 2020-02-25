@@ -30,6 +30,12 @@ It uses the following packages:
 - GCC version 7.4.0 (Ubuntu 7.4.0-1ubuntu1~18.04.1) 
 - OpenCV 4.0.0
 
-# Example of usage and results
+# Example of use and results
 https://github.com/prater27/Images_Triangulator/tree/master/Results
+
+![alt text](https://github.com/prater27/Images_Triangulator/blob/master/Results/stippled_image1.jpg)
+
+![alt text](https://github.com/prater27/Images_Triangulator/blob/master/Results/Triangulated_Image1.jpg "Example_1")
+
+
 
