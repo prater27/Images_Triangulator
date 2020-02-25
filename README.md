@@ -21,9 +21,13 @@ This is an implementation by frankr0 of the following article using OpenCV:
 
 > Weighted Voronoi Stippling, Adrian Secord. In: Proceedings of the 2nd International Symposium on Non-photorealistic Animation and Rendering. NPAR ’02. ACM, 2002, pp. 37– 43.
 
+https://frankr0.github.io/CV/Weighted-Voronoi-Stippling
+
 # Delaunay-Triangulation
 
-An implementation by delfrrr. It claims to be one of the fastest open source implementations available.
+An implementation by delfrrr. It claims being one of the fastest open source implementations available.
+
+https://github.com/delfrrr/delaunator-cpp
 
 # Pre-requisites
 It uses the following packages:
@@ -44,7 +48,7 @@ A final image obtained by running the next command:
 
 ![alt text](https://github.com/prater27/Images_Triangulator/blob/master/Results/Triangulated_Image1.jpg "Example_1")
 
-It is important that the picture has good resolution. Lower resolution pictures lead to wrong triangulations often.
+It is important that the picture has good resolution. Lower resolution pictures often lead to wrong triangulations.
 
 
 
