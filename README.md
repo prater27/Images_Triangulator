@@ -31,11 +31,20 @@ It uses the following packages:
 - OpenCV 4.0.0
 
 # Example of use and results
+For compiling, in the main folder just run cmake . and make. The executable will appear in the folder src.
+
+To see two complete examples with all the generated files check:
 https://github.com/prater27/Images_Triangulator/tree/master/Results
+
+A final image obtained by running the next command:
+
+./Image_Triangulator Test.jpg -i -ps=1 -lineSize=1 -N=250000 -epoch=300 -dt -d
 
 ![alt text](https://github.com/prater27/Images_Triangulator/blob/master/Results/stippled_image1.jpg)
 
 ![alt text](https://github.com/prater27/Images_Triangulator/blob/master/Results/Triangulated_Image1.jpg "Example_1")
+
+It is important that the picture has good resolution. Lower resolution pictures leads to bad triangulations often.
 
 
 
