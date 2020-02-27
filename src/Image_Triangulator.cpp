@@ -376,12 +376,6 @@ if( std::remove( "triangles.txt" ) != 0 )
 		pt[1] = Point(d.coords[2 * d.triangles[i + 1]], d.coords[2 * d.triangles[i + 1]+1]);
 		pt[2] = Point(d.coords[2 * d.triangles[i + 2]], d.coords[2 * d.triangles[i + 2]+1]);
 
-cout<< size.width<< "\n";
-cout<< size.height<< "\n";
-cout<< pt[0]<< "\n";
-cout<< pt[1]<< "\n";
-cout<< pt[2]<< "\n";
-
 		if(((pt[0].x>0 && pt[0].x<size.width) && (pt[1].x>0 && pt[1].x<size.width) && (pt[2].x>0 && pt[2].x<size.width) && (pt[0].y>0 && pt[0].y<size.height) && (pt[1].y>0 && pt[1].y<size.height) && (pt[2].y>0 && pt[2].y<size.height)))
 		{
 		line(imgTriangulated, pt[0], pt[1], delaunay_colorLines, lineSize, CV_8S, 0);
