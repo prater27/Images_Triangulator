@@ -45,6 +45,8 @@ A final image obtained by running the next command:
 
 ./Image_Triangulator Test.jpg -i -ps=1 -lineSize=1 -N=250000 -epoch=300 -dt -d
 
+Picture by Ann Nevreva (@annnevreva):
+
 ![alt text](https://github.com/prater27/Images_Triangulator/blob/master/Results/image1.jpg)
 
 ![alt text](https://github.com/prater27/Images_Triangulator/blob/master/Results/stippled_image1.jpg)
