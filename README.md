@@ -20,6 +20,7 @@ It gives as outputs: stippled_image.jpg, stippled_points.txt (x y coordinates of
 This is an implementation by frankr0 of the following article using OpenCV:
 
 > Weighted Voronoi Stippling, Adrian Secord. In: Proceedings of the 2nd International Symposium on Non-photorealistic Animation and Rendering. NPAR ’02. ACM, 2002, pp. 37– 43.
+https://www.cs.ubc.ca/labs/imager/tr/2002/secord2002b/secord.2002b.pdf
 
 https://frankr0.github.io/CV/Weighted-Voronoi-Stippling
 
@@ -43,6 +44,8 @@ https://github.com/prater27/Images_Triangulator/tree/master/Results
 A final image obtained by running the next command:
 
 ./Image_Triangulator Test.jpg -i -ps=1 -lineSize=1 -N=250000 -epoch=300 -dt -d
+
+![alt text](https://github.com/prater27/Images_Triangulator/blob/master/Results/image1.jpg)
 
 ![alt text](https://github.com/prater27/Images_Triangulator/blob/master/Results/stippled_image1.jpg)
 
