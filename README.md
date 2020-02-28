@@ -53,7 +53,7 @@ Picture by Ann Nevreva (@annnevreva):
 
 ![alt text](https://github.com/prater27/Images_Triangulator/blob/master/Results/Triangulated_Image1.jpg "Example_1")
 
-It is important that the picture has good resolution. Lower resolution pictures often lead to wrong triangulations.
+It is important the picture has good resolution. Lower resolution pictures often lead to wrong triangulations.
 
 
 
