@@ -112,7 +112,7 @@ void appendRandomPoint(RNG &rng, vector<Point2f> &points, Size size, int N) {
 //the input points
 bool pointInsideImage(int x2, int y2, double x, double y) 
 { 
-    if (x > 0 and x < x2 and y > 0 and y < y2) 
+    if (x >= 0 and x <= x2 and y >= 0 and y <= y2) 
         return true; 
   
     return false; 
